@@ -8,8 +8,6 @@ public class Main {
 		foo.accept(up);
 		
 		BAR bar = new BAR();
-		bar.accept(up);
-				
+		bar.accept(up);			
 	}
-
 }
